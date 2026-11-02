@@ -1,0 +1,22 @@
+[
+  {
+    "file": "data/candidate_review.csv",
+    "sha256": "69150bc6a1321a9df46cf214938fa9dcea399bf6013b7fe20ab2dfc8398dc3b7",
+    "bytes": 44836
+  },
+  {
+    "file": "data/coverage_patterns.csv",
+    "sha256": "b95cacfb98e37dc24fe5d446f9bd0e57f5d7afdf01aa30ce1161552f5f6919c5",
+    "bytes": 12809
+  },
+  {
+    "file": "data/metadata.json",
+    "sha256": "848dc3bdf6743b7411a0fc4e09bebf1dc779774586671003b48cfca9669c01d9",
+    "bytes": 1181
+  },
+  {
+    "file": "data/spacing_conflicts.csv",
+    "sha256": "bcfa6c7f0e70c6fc8c495831ac25f0e77ff15dd9c4311e1316db494a779c265e",
+    "bytes": 15
+  }
+]

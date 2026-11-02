@@ -1,0 +1,32 @@
+{
+  "station": "Thao Dien, Ho Chi Minh City, Vietnam",
+  "date": "2026-11-01",
+  "reachable_population": 107946.08072662354,
+  "excluded_population": 687.1339264959097,
+  "screened_sites": 1623,
+  "positive_benefit_sites": 823,
+  "retained_candidates": 100,
+  "crown_scenarios": [
+    {
+      "name": "smaller_design_crown",
+      "radius_m": 2,
+      "base_m": 3,
+      "top_m": 6
+    },
+    {
+      "name": "larger_design_crown",
+      "radius_m": 3,
+      "base_m": 3,
+      "top_m": 9
+    }
+  ],
+  "hour_weights": {
+    "9": 0.3333333333333333,
+    "12": 0.3333333333333333,
+    "15": 0.3333333333333333
+  },
+  "baseline_routing": "Fixed shortest-distance paths, assigned origin nodes to accepted entrances; no route adaptation after planting",
+  "benefits": "Average across three equally weighted time snapshots of population-weighted one-way exposure; not daily observed flows",
+  "feasibility": "All candidate sites unverified. No verified planting benefit established. Candidate cap limits global siting claims.",
+  "cost": "Count budget only. No fabricated unit price; VND costing and species/growth specification require external inputs."
+}
