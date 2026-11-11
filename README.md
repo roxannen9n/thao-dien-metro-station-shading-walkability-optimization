@@ -60,9 +60,3 @@ For 10 larger-crown trees, the mean benefit is about **14.6 seconds across all 1
 ![Selected trees in the reference scenario](results/selected_trees.png)
 
 ![Tree-count and crown scenarios](results/budget_benefit.png)
-
-## Scope
-
-The budget is tree count, not money. All sites still require checks of soil, ownership, underground utilities, road clearance and planting permission. Heights, fixed routes and population weights have uncertainty. The optimum applies to the retained 100 candidates; it does not establish a construction-ready plan or an economic return.
-
-Saved results include the eight scenario summaries and hourly benefits. Model code is in `src/model.py`; the small test suite checks budget, overlap, spacing and dataset integrity.
